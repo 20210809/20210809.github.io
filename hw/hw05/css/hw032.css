@@ -1,0 +1,15 @@
+caption {
+    color:rgb(255, 173, 211); 
+    background-color:rgb(112, 38, 60);
+    font-size: 30px;
+}
+th { 
+    color:rgb(255, 124, 124); 
+    background-color:rgb(255, 242, 242);
+    font-size: 15px;
+}
+td {
+    color:rgb(108, 0, 180); 
+    background-color:rgb(194, 129, 255);
+    font-size: 20px;
+}
